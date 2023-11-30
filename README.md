@@ -1,4 +1,2 @@
 # DSMNet
-E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning
-
-Coming soon...
+DSMNet: Deep High-precision 3D Surface Modeling from Sparse Point Cloud Frames
